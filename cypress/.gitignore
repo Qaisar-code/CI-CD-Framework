@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Cypress cache
+.cypress_cache/
+
+# Generated folders
+cypress/videos/
+cypress/screenshots/
